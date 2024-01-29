@@ -3,10 +3,18 @@ Agriculture is a critical sector influenced by climate conditions, and understan
 This project aims to assess the historical trends in US weather patterns(temperature, precipitation, and extreme weather events) and agricultural outcomes(yield and land usage).
 This research will also identify trends, assess the impact of extreme weather occurrences, and provide insights for informed decision-making.
 
+
+## Getting Started
+
+To get started with this project, you will need to have access to Google Drive and provide the necessary credentials to log into your Google account.
+
 ## Prerequisites
 
 The following libraries and packages are required to run this code:
-
+* pandas
+* numpy
+* matplotlib.pyplot
+* google.colab
 
 ## Running the tests
 
