@@ -23,9 +23,13 @@ To run this code, simply open it in a Python environment such as Jupyter Noteboo
 ## Authors
 
 Sumanth Donthula
+
 Manish Kumar Meerjumla
+
 Praveena Gajula
+
 Kavya Naga Sri Chennamsetti
+
 Jonathan Chukwuma Oteh
 
 
